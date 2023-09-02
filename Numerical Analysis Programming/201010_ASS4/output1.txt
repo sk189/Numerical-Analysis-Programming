@@ -1,0 +1,4 @@
+Gauss-Legendre quadrature
+I = 0.632121
+Number of Guass Points : 3.000000
+Approximate relative error : 0.000048
